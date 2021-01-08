@@ -10,11 +10,6 @@
     "start:dev": "nodemon app.js",
     "prettify": "prettier **/*.js --write"
   },
-  "author": "Amit Thite",
-  "license": "ISC",
-  "engines": {
-    "node": "14.15.0"
-  },
   "devDependencies": {
     "nodemon": "^1.18.3",
     "prettier": "^1.19.1"
