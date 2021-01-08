@@ -10,10 +10,10 @@
     "start:dev": "nodemon app.js",
     "prettify": "prettier **/*.js --write"
   },
-  "author": "James Katarikawe",
+  "author": "Amit Thite",
   "license": "ISC",
   "engines": {
-    "node": "11.10.1"
+    "node": "14.15.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.3",
